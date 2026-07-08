@@ -1,20 +1,26 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently pursuing a Doctor's degree in Mathematics at the Department of National Graduate College for Engineers , SUSTech, ShenZhen.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>wangyf1998sc@foxmail.com</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+Bachelor of Information and Telecommunication Engineering
+Year of completion: 2021 
+Institution: Harbin Institute of Technology, Shenzhen
+Department: Electronic and Information Engineering
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+Doctor of Philosophy in Mathematics
+Year of completion: 2027 (Expected)
+Institution: Southern University of Science and Technology 
+Department: National Graduate College for Engineers 
 
 #### Research Interests  
-XX, XX, XX, XX.
+3D Computer Vision
+Neural Scene Representation
+Novel View Synthesis
+3D Reconstruction
+Geometric Foundation Models
+Multi-view Geometry
